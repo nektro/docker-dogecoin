@@ -17,5 +17,5 @@ FROM photon
 ARG folder
 COPY --from=stage1 /the/workdir/${folder}/bin/dogecoind /app/dogecoind
 VOLUME /data
-EXPOSE 8332
-ENTRYPOINT [ "/app/dogecoind", "-printtoconsole", "-datadir=/data", "-server", "-rpcport=8332", "-rpcuser=dogecoin", "-rpcpassword=password" ]
+EXPOSE 22555
+ENTRYPOINT [ "/app/dogecoind", "-printtoconsole", "-datadir=/data", "-server", "-rpcport=22555", "-rpcuser=dogecoin", "-rpcpassword=password" ]

@@ -13,6 +13,6 @@ https://dogecoin.com/
 |-----|-------|
 | Version | `1.14.2` |
 | Volume | `/data` |
-| RPC Port | `8332` |
+| RPC Port | `22555` |
 | RPC User | `dogecoin` |
 | RPC Pass | `password` |
