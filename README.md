@@ -9,6 +9,8 @@ Dockerized Litecoin Daemon
 
 https://dogecoin.com/
 
+https://github.com/dogecoin/dogecoin/releases
+
 | Key | Value |
 |-----|-------|
 | Version | `1.14.2` |
