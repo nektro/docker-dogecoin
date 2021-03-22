@@ -1,4 +1,4 @@
-ARG version=1.14.2
+ARG version=1.14.3
 ARG file=dogecoin-${version}-x86_64-linux-gnu.tar.gz
 ARG folder=dogecoin-${version}
 
