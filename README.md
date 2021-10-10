@@ -13,7 +13,7 @@ https://github.com/dogecoin/dogecoin/releases
 
 | Key | Value |
 |-----|-------|
-| Version | `1.14.3` |
+| Version | `v1.14.4` |
 | Volume | `/data` |
 | RPC Port | `22555` |
 | RPC User | `dogecoin` |
